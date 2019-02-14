@@ -1,6 +1,6 @@
 # Demo---Robust Fitting in Computer Vision: Easy or Hard?
 
-Originally published in ECCV 2018 as **oral** presentations, extended to the IJCV special issue for the 12 best papers of ECCV 2018.
+Originally published in ECCV 2018 as **oral** presentations, extended to the **IJCV special issue for the 12 best papers of ECCV 2018**.
 
 The code used in the experiment of the IJCV version, **currently only for reviews, please do not copy or distribute for any other purpose**. 
 
